@@ -1,9 +1,0 @@
-C:\Users\Evan\source\repos\cbplauncher\CLASSICBLOX\bin\Debug\CLASSICBLOX.exe
-C:\Users\Evan\source\repos\cbplauncher\CLASSICBLOX\bin\Debug\CLASSICBLOX.pdb
-C:\Users\Evan\source\repos\cbplauncher\CLASSICBLOX\obj\Debug\CLASSICBLOX.csproj.AssemblyReference.cache
-C:\Users\Evan\source\repos\cbplauncher\CLASSICBLOX\obj\Debug\CLASSICBLOX.Form1.resources
-C:\Users\Evan\source\repos\cbplauncher\CLASSICBLOX\obj\Debug\CLASSICBLOX.Properties.Resources.resources
-C:\Users\Evan\source\repos\cbplauncher\CLASSICBLOX\obj\Debug\CLASSICBLOX.csproj.GenerateResource.cache
-C:\Users\Evan\source\repos\cbplauncher\CLASSICBLOX\obj\Debug\CLASSICBLOX.csproj.CoreCompileInputs.cache
-C:\Users\Evan\source\repos\cbplauncher\CLASSICBLOX\obj\Debug\CLASSICBLOX.exe
-C:\Users\Evan\source\repos\cbplauncher\CLASSICBLOX\obj\Debug\CLASSICBLOX.pdb
